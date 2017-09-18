@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rooms>
+
+
+<room id="SAL-001">
+<lacation>Primer piso</lacation>
+<capacity>36</capacity>
+<state>Activa</state>
+<score>100</score>
+<resources>
+<type>No hay recursos</type>
+</resources>
+</room>
+
+<room id="SAL-002">
+<lacation>Primer piso</lacation>
+<capacity>36</capacity>
+<state>Activa</state>
+<score>100</score>
+<resources>
+<type>No hay recursos</type>
+</resources>
+</room>
+
+<room id="SAL-003">
+<lacation>Primer piso</lacation>
+<capacity>36</capacity>
+<state>Activa</state>
+<score>100</score>
+<resources>
+<type>No hay recursos</type>
+</resources>
+</room>
+
+<room id="SAL-004">
+<lacation>Primer piso</lacation>
+<capacity>36</capacity>
+<state>Activa</state>
+<score>100</score>
+<resources>
+<type>No hay recursos</type>
+</resources>
+</room>
+
+<room id="SAL-005">
+<lacation>Primer piso</lacation>
+<capacity>36</capacity>
+<state>Activa</state>
+<score>100</score>
+<resources>
+<type>No hay recursos</type>
+</resources>
+</room>
+
+<room id="SAL-006">
+<lacation>Primer piso</lacation>
+<capacity>36</capacity>
+<state>Activa</state>
+<score>100</score>
+<resources>
+<type>No hay recursos</type>
+</resources>
+</room>
+<counter id="8"/>
+<room id="SAL-007">
+<lacation>Primer piso</lacation>
+<capacity>36</capacity>
+<state>Activa</state>
+<score>100</score>
+<resources>
+<type>No hay recursos</type>
+</resources>
+</room>
+</rooms>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<reservations>
+    
+<reservation id="2016078675/SAL-002/2/january/7.3">
+<subject>Estudiar</subject>
+<state>A espera de confirmación</state>
+<day>2</day>
+<month>january</month>
+<start>7.3</start>
+<end>13.3</end>
+<organizer>2016078675</organizer>
+<room>SAL-002</room>
+</reservation>
+<reservation id="2016078675/SAL-003/2/january/7.3">
+<subject>Estudiar</subject>
+<state>A espera de confirmación</state>
+<day>2</day>
+<month>january</month>
+<start>7.3</start>
+<end>13.3</end>
+<organizer>2016078675</organizer>
+<room>SAL-003</room>
+</reservation>
+<reservation id="2016078675/SAL-004/2/january/7.3">
+<subject>Estudiar</subject>
+<state>A espera de confirmación</state>
+<day>2</day>
+<month>january</month>
+<start>7.3</start>
+<end>13.3</end>
+<organizer>2016078675</organizer>
+<room>SAL-004</room>
+</reservation>
+<reservation id="2016078675/SAL-005/2/january/7.3">
+<subject>Estudiar</subject>
+<state>A espera de confirmación</state>
+<day>2</day>
+<month>january</month>
+<start>7.3</start>
+<end>13.3</end>
+<organizer>2016078675</organizer>
+<room>SAL-005</room>
+</reservation>
+<reservation id="2016078675/SAL-006/2/january/7.3">
+<subject>Estudiar</subject>
+<state>A espera de confirmación</state>
+<day>2</day>
+<month>january</month>
+<start>7.3</start>
+<end>13.3</end>
+<organizer>2016078675</organizer>
+<room>SAL-006</room>
+</reservation>
+<reservation id="2016078675/SAL-007/2/january/7.3">
+<subject>Estudiar</subject>
+<state>A espera de confirmación</state>
+<day>2</day>
+<month>january</month>
+<start>7.3</start>
+<end>13.3</end>
+<organizer>2016078675</organizer>
+<room>SAL-007</room>
+</reservation>
+</reservations>
